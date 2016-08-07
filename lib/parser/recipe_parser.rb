@@ -1,0 +1,3 @@
+class RecipeParser
+
+end
